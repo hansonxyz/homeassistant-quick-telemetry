@@ -15,3 +15,6 @@ Configuration:
 - Put telemetry.sh on each system you wish to use it on.
 - Run telemetry.sh for help examples on what kinds of commands you can use to send telemetry to home assistant.
 - Optionally configure telemetry_periodic.sh to collect relevant information for your system and run telemetry_periodic.sh from cron every 5 minutes (*/5 * * * *)
+
+
+![](server_telemetry_example.png)
