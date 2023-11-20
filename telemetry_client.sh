@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TOKEN="PUT_A_RANDOM_STRING_HERE" 
+TOKEN="SECRET_TOKEN_PUT_A_RANDOM_STRING_HERE" 
 SERVER_URL="https://my_telemetry_server.my_domain.info"  
 
 # Function to show help
